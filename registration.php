@@ -70,7 +70,7 @@
             <button type="submit">Register</button>
         </form>
         <div class="login-link">
-            <a href="login.html">Login here</a>
+            <a href="login.php">Login here</a>
         </div>
     </div>
 </body>

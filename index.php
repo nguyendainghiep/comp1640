@@ -53,7 +53,7 @@
       <!-- Nav Menu -->
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index.html#hero" class="active">Home</a></li>
+          <li><a href="index.php" class="active">Home</a></li>
           <li><a href="blog.html">Blog</a></li>
           <li class="dropdown has-dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down"></i></a>
             <ul class="dd-box-shadow">
@@ -78,7 +78,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav><!-- End Nav Menu -->
 
-      <a class="btn-getstarted" href="login.html">Sign In</a>
+      <a class="btn-getstarted" href="login.php">Sign In</a>
 
     </div>
   </header><!-- End Header -->

@@ -60,7 +60,7 @@
       <button type="submit">Login</button>
     </form>
     <div class="register-link">
-      <a href="registration.html">Register here</a>
+      <a href="registration.php">Register here</a>
     </div>
   </div>
 </body>
